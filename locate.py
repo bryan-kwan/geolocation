@@ -34,10 +34,10 @@ def locate(uav_latitude, uav_longitude, uav_altitude, bearing, cam_fov, img_widt
 
 
 if __name__ == "__main__":
-    uav_longitude = -128
-    uav_latitude = 60
-    uav_altitude = 1000
-    bearing = 0
+    uav_longitude = -114.113
+    uav_latitude = 51.0808
+    uav_altitude = 1097.5
+    bearing = 253 - 90
     cam_fov = 60
     img_width_px = 2000
     img_height_px = 1000
